@@ -1,0 +1,4 @@
+name: BungeeFilter
+main: it.arenacraft.bungee.filter.BungeeFilter
+version: 1.0
+author: RaynLegends

@@ -1,0 +1,10 @@
+valid_regex: "[ -~\u00B0\u00A7]+"
+invalid_message: "&cYour message contains characters that are not allowed"
+commands_as_whitelist: true
+commands: 
+  - l
+  - login
+  - reg
+  - register
+  - changepassword
+  - authme
